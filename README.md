@@ -12,7 +12,7 @@ A little program to process simple string.
 
 `countchar`: count how many times the first letter appears in it's line.
 
-`strup': trans all the letters into large cases.
+`strup`: trans all the letters into large cases.
 
 # How to build
 
